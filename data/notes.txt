@@ -1,0 +1,3 @@
+Initial project notes.
+
+This file can be updated during development.
