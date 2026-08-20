@@ -1,5 +1,5 @@
 def hello():
-    return 'Hello from GitHub Auto Commit'
+    return 'yohfrom GitHub Auto Commit'
 
 
 if __name__ == '__main__':
